@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 #define VAT_RATE 0.05
 
 int g_job_no, g_warranty_days;
